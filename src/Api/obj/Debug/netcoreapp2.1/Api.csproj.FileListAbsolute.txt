@@ -1,0 +1,28 @@
+D:\Nova pasta (2)\8_AspNetIdentity\src\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+D:\Nova pasta (2)\8_AspNetIdentity\src\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+D:\Nova pasta (2)\8_AspNetIdentity\src\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+D:\Nova pasta (2)\8_AspNetIdentity\src\Api\bin\Debug\netcoreapp2.1\Api.dll
+D:\Nova pasta (2)\8_AspNetIdentity\src\Api\bin\Debug\netcoreapp2.1\Api.pdb
+D:\Nova pasta (2)\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+D:\Nova pasta (2)\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+D:\Nova pasta (2)\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+D:\Nova pasta (2)\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+D:\Nova pasta (2)\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+D:\Nova pasta (2)\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.dll
+D:\Nova pasta (2)\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.pdb
+D:\projectt\8_AspNetIdentity\src\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+D:\projectt\8_AspNetIdentity\src\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+D:\projectt\8_AspNetIdentity\src\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+D:\projectt\8_AspNetIdentity\src\Api\bin\Debug\netcoreapp2.1\Api.dll
+D:\projectt\8_AspNetIdentity\src\Api\bin\Debug\netcoreapp2.1\Api.pdb
+D:\projectt\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+D:\projectt\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+D:\projectt\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+D:\projectt\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+D:\projectt\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+D:\projectt\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+D:\projectt\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+D:\projectt\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.dll
+D:\projectt\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.pdb

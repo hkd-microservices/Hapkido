@@ -1,0 +1,78 @@
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\bin\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.deps.json
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\bin\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.runtimeconfig.json
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\bin\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.runtimeconfig.dev.json
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\bin\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.dll
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\bin\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.pdb
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\bin\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.Views.dll
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\bin\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.Views.pdb
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.csprojAssemblyReference.cache
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.csproj.CoreCompileInputs.cache
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.RazorAssemblyInfo.cache
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.RazorAssemblyInfo.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.AssemblyInfoInputs.cache
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.AssemblyInfo.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.TagHelpers.input.cache
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.TagHelpers.output.cache
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.RazorCoreGenerate.cache
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Account\LoggedOut.g.cshtml.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Consent\Index.g.cshtml.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Device\Success.g.cshtml.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Device\UserCodeCapture.g.cshtml.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Device\UserCodeConfirmation.g.cshtml.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Diagnostics\Index.g.cshtml.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Grants\Index.g.cshtml.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Redirect.g.cshtml.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ScopeListItem.g.cshtml.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationSummary.g.cshtml.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.RazorTargetAssemblyInfo.cache
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.RazorTargetAssemblyInfo.cs
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.Views.pdb
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.dll
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.pdb
+D:\Nova pasta (2)\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.csproj.CopyComplete
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\bin\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.deps.json
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\bin\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.runtimeconfig.json
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\bin\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.runtimeconfig.dev.json
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\bin\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.dll
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\bin\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.pdb
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\bin\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.Views.dll
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\bin\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.Views.pdb
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.csprojAssemblyReference.cache
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.csproj.CoreCompileInputs.cache
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.RazorAssemblyInfo.cache
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.RazorAssemblyInfo.cs
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.AssemblyInfoInputs.cache
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.AssemblyInfo.cs
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.TagHelpers.input.cache
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.TagHelpers.output.cache
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.RazorCoreGenerate.cache
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Account\LoggedOut.g.cshtml.cs
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Consent\Index.g.cshtml.cs
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Device\Success.g.cshtml.cs
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Device\UserCodeCapture.g.cshtml.cs
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Device\UserCodeConfirmation.g.cshtml.cs
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Diagnostics\Index.g.cshtml.cs
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Grants\Index.g.cshtml.cs
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Redirect.g.cshtml.cs
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ScopeListItem.g.cshtml.cs
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationSummary.g.cshtml.cs
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.RazorTargetAssemblyInfo.cache
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.RazorTargetAssemblyInfo.cs
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.Views.pdb
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.dll
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.pdb
+D:\projectt\8_AspNetIdentity\src\IdentityServerAspNetIdentity\obj\Debug\netcoreapp2.1\IdentityServerAspNetIdentity.csproj.CopyComplete
