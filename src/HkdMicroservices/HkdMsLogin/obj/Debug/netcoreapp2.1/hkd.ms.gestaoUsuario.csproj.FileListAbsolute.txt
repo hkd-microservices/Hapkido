@@ -1,0 +1,14 @@
+D:\JOHN\8FASE\TC2\H.K.D\H.K.D.APP\hkd.ms.login\src\Api\bin\Debug\netcoreapp2.1\hkd.ms.gestaoUsuario.deps.json
+D:\JOHN\8FASE\TC2\H.K.D\H.K.D.APP\hkd.ms.login\src\Api\bin\Debug\netcoreapp2.1\hkd.ms.gestaoUsuario.runtimeconfig.json
+D:\JOHN\8FASE\TC2\H.K.D\H.K.D.APP\hkd.ms.login\src\Api\bin\Debug\netcoreapp2.1\hkd.ms.gestaoUsuario.runtimeconfig.dev.json
+D:\JOHN\8FASE\TC2\H.K.D\H.K.D.APP\hkd.ms.login\src\Api\bin\Debug\netcoreapp2.1\hkd.ms.gestaoUsuario.dll
+D:\JOHN\8FASE\TC2\H.K.D\H.K.D.APP\hkd.ms.login\src\Api\bin\Debug\netcoreapp2.1\hkd.ms.gestaoUsuario.pdb
+D:\JOHN\8FASE\TC2\H.K.D\H.K.D.APP\hkd.ms.login\src\Api\obj\Debug\netcoreapp2.1\hkd.ms.gestaoUsuario.csprojAssemblyReference.cache
+D:\JOHN\8FASE\TC2\H.K.D\H.K.D.APP\hkd.ms.login\src\Api\obj\Debug\netcoreapp2.1\hkd.ms.gestaoUsuario.csproj.CoreCompileInputs.cache
+D:\JOHN\8FASE\TC2\H.K.D\H.K.D.APP\hkd.ms.login\src\Api\obj\Debug\netcoreapp2.1\hkd.ms.gestaoUsuario.RazorAssemblyInfo.cache
+D:\JOHN\8FASE\TC2\H.K.D\H.K.D.APP\hkd.ms.login\src\Api\obj\Debug\netcoreapp2.1\hkd.ms.gestaoUsuario.RazorAssemblyInfo.cs
+D:\JOHN\8FASE\TC2\H.K.D\H.K.D.APP\hkd.ms.login\src\Api\obj\Debug\netcoreapp2.1\hkd.ms.gestaoUsuario.AssemblyInfoInputs.cache
+D:\JOHN\8FASE\TC2\H.K.D\H.K.D.APP\hkd.ms.login\src\Api\obj\Debug\netcoreapp2.1\hkd.ms.gestaoUsuario.AssemblyInfo.cs
+D:\JOHN\8FASE\TC2\H.K.D\H.K.D.APP\hkd.ms.login\src\Api\obj\Debug\netcoreapp2.1\hkd.ms.gestaoUsuario.RazorTargetAssemblyInfo.cache
+D:\JOHN\8FASE\TC2\H.K.D\H.K.D.APP\hkd.ms.login\src\Api\obj\Debug\netcoreapp2.1\hkd.ms.gestaoUsuario.dll
+D:\JOHN\8FASE\TC2\H.K.D\H.K.D.APP\hkd.ms.login\src\Api\obj\Debug\netcoreapp2.1\hkd.ms.gestaoUsuario.pdb
